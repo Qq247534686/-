@@ -1,0 +1,5 @@
+c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\bin\Debug\JiaMiXiu.Web.Core.dll
+c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\bin\Debug\JiaMiXiu.Web.Core.pdb
+c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.dll
+c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.pdb

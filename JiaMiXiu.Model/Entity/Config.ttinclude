@@ -1,0 +1,7 @@
+﻿<#+
+public class config
+{
+	public static readonly string ConnectionString="Data Source=(local);Initial Catalog=JiaMiXiu;User ID=sa;Password=123";
+	public static readonly string DbDatabase="JiaMiXiu";
+}
+#>
