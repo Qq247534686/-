@@ -64,18 +64,36 @@
     <Compile Include="EF_DBContext.cs" />
     <Compile Include="EF_Factory.cs" />
     <Compile Include="IRepository\Base\IRepositoryBase.cs" />
+    <Compile Include="IRepository\Template\IGradeRepository.cs">
+      <DependentUpon>IRepository.tt</DependentUpon>
+    </Compile>
+    <Compile Include="IRepository\Template\IIdentityAutRepository.cs">
+      <DependentUpon>IRepository.tt</DependentUpon>
+    </Compile>
+    <Compile Include="IRepository\Template\ILogonRecordRepository.cs">
+      <DependentUpon>IRepository.tt</DependentUpon>
+    </Compile>
+    <Compile Include="IRepository\Template\IMemberRepository.cs">
+      <DependentUpon>IRepository.tt</DependentUpon>
+    </Compile>
     <Compile Include="IRepository\Template\IRepository1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>IRepository.tt</DependentUpon>
     </Compile>
-    <Compile Include="IRepository\Template\ITestRepository.cs">
-      <DependentUpon>IRepository.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\Base\EntityRepositoryBase.cs" />
     <Compile Include="Repository\Base\RepositoryBase.cs" />
-    <Compile Include="Repository\Template\ITestRepository.cs">
+    <Compile Include="Repository\Template\IGradeRepository.cs">
+      <DependentUpon>RepositoryBase.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Repository\Template\IIdentityAutRepository.cs">
+      <DependentUpon>RepositoryBase.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Repository\Template\ILogonRecordRepository.cs">
+      <DependentUpon>RepositoryBase.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Repository\Template\IMemberRepository.cs">
       <DependentUpon>RepositoryBase.tt</DependentUpon>
     </Compile>
     <Compile Include="Repository\Template\RepositoryBase1.cs">

@@ -14,4 +14,4 @@ c:\users\administrator\source\repos\JiaMiXiu\JiaMiXu.Core\bin\Debug\Newtonsoft.J
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXu.Core\bin\Debug\NLog.dll
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXu.Core\bin\Debug\NLog.xml
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXu.Core\bin\Debug\System.Configuration.ConfigurationManager.dll
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXu.Core\obj\Debug\JiaMiXu.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\JiaMiXiu\JiaMiXu.Core\obj\Debug\JiaMiXu.Core.csprojResolveAssemblyReference.cache

@@ -52,19 +52,37 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>
-    <Compile Include="Entity\TestEntity.cs">
+    <Compile Include="Entity\GradeEntity.cs">
+      <DependentUpon>Entity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\IdentityAutEntity.cs">
+      <DependentUpon>Entity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\LogonRecordEntity.cs">
+      <DependentUpon>Entity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\MemberEntity.cs">
       <DependentUpon>Entity.tt</DependentUpon>
     </Compile>
     <Compile Include="IEntity\BaseEntity.cs" />
     <Compile Include="IEntity\ICreateInfo.cs" />
     <Compile Include="IEntity\IDeleteMarke.cs" />
     <Compile Include="IEntity\IUpdateInfo.cs" />
+    <Compile Include="Mapping\GradeEntityMap.cs">
+      <DependentUpon>MappingEntityMap.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Mapping\IdentityAutEntityMap.cs">
+      <DependentUpon>MappingEntityMap.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Mapping\LogonRecordEntityMap.cs">
+      <DependentUpon>MappingEntityMap.tt</DependentUpon>
+    </Compile>
     <Compile Include="Mapping\MappingEntityMap.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>MappingEntityMap.tt</DependentUpon>
     </Compile>
-    <Compile Include="Mapping\TestEntityMap.cs">
+    <Compile Include="Mapping\MemberEntityMap.cs">
       <DependentUpon>MappingEntityMap.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />

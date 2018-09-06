@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <objects>
 
-  <object type="JiaMiXiu.Service.Service.TestService, JiaMiXiu.Service" singleton="false" name="TestService">
+  <!--<object type="JiaMiXiu.Service.Service.TestService, JiaMiXiu.Service" singleton="false" name="TestService">
     <property name="repository" ref="TestRepository" />
-  </object>
+  </object>-->
   
 </objects>

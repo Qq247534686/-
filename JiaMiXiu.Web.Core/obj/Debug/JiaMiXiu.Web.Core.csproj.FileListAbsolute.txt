@@ -3,3 +3,4 @@ c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\bin\Debug\JiaMiXi
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.csproj.CoreCompileInputs.cache
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.dll
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.pdb
+C:\Users\Administrator\source\repos\JiaMiXiu\JiaMiXiu.Web.Core\obj\Debug\JiaMiXiu.Web.Core.csprojResolveAssemblyReference.cache

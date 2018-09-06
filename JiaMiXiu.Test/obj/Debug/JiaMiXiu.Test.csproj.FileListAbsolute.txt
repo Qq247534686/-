@@ -55,14 +55,3 @@ c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\Common.Logg
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\Common.Logging.Core.xml
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\Common.Logging.pdb
 c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\Common.Logging.xml
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Service.dll
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Model.dll
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Domain.dll
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\EntityFramework.dll
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\CorePlus.Core.dll
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Service.pdb
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Model.pdb
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Model.dll.config
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Domain.pdb
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\JiaMiXiu.Domain.dll.config
-c:\users\administrator\source\repos\JiaMiXiu\JiaMiXiu.Test\bin\Debug\EntityFramework.xml

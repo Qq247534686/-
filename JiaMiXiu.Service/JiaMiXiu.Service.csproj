@@ -44,25 +44,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IService\ITestService.cs" />
+    <Compile Include="IService\Template\IGradeService.cs">
+      <DependentUpon>IService.tt</DependentUpon>
+    </Compile>
+    <Compile Include="IService\Template\IIdentityAutService.cs">
+      <DependentUpon>IService.tt</DependentUpon>
+    </Compile>
+    <Compile Include="IService\Template\ILogonRecordService.cs">
+      <DependentUpon>IService.tt</DependentUpon>
+    </Compile>
+    <Compile Include="IService\Template\IMemberService.cs">
+      <DependentUpon>IService.tt</DependentUpon>
+    </Compile>
     <Compile Include="IService\Template\IService1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>IService.tt</DependentUpon>
     </Compile>
-    <Compile Include="IService\Template\ITestService.cs">
-      <DependentUpon>IService.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\Template\GradeService.cs">
+      <DependentUpon>Service.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Template\IdentityAutService.cs">
+      <DependentUpon>Service.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Template\LogonRecordService.cs">
+      <DependentUpon>Service.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Service\Template\MemberService.cs">
+      <DependentUpon>Service.tt</DependentUpon>
+    </Compile>
     <Compile Include="Service\Template\Service1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
-    <Compile Include="Service\Template\TestService.cs">
-      <DependentUpon>Service.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Service\TestService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="IService\Template\IService.tt">
